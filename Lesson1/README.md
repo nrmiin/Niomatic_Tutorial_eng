@@ -1,4 +1,4 @@
-﻿# Building your own calculator applet with niomatic
+﻿# Build your own calculator applet with niomatic
 
 
 ### To execute this tutorial you need to download niomatic application
